@@ -1,0 +1,89 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-07 16:47:58
+* @Last Modified by:   dell
+* @Last Modified time: 2018-03-16 18:50:14
+*/
+.computer{
+	width: 500px;
+	height: 888px;
+	margin: 0 auto;
+}
+.head{
+	width: 500px;
+	height: 78px;
+	background: #00a5c4;
+}
+.body{
+	width: 500px;
+	height: 257px;
+	background: white;
+}
+.dkey{
+	width: 500px;
+	height: 47px;
+	background: #DFE3E4;
+}
+.key{
+	width: 500px;
+	height: 503px;
+	background: white;
+}
+.anjian{
+	width: 123px;
+	height: 99px;
+	background: white;
+	float: left;
+	margin-right: 2px;
+	margin-bottom: 3px;
+	font-size: 38px;
+	text-align: center;
+	line-height: 99px;
+}
+.anjian1{
+	width: 124px;
+}
+.anjian2{
+	margin-right: 0px;
+}
+.anjian3{
+	margin-bottom: 0px;
+}
+.jisuanqi{
+	width:114px ;
+	height: 78px;
+	float: left;	 
+}
+.dian{
+	width: 7px;
+	height:25px;
+	float: right;
+	background: #00a5c4;
+	margin-right: 11px;
+	margin-top: 26px; 
+}
+.circle{
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	margin-bottom: 2px;
+	background: white;
+}
+.circle1{
+	margin-bottom: 0;
+}
+.changtiao{
+	width: 2px;
+	height: 76px;
+	float: right;
+	margin-top: 7px;
+	margin-right: 15px;
+	background: #00a5c4;
+}
+.v{
+	width: 34px;
+	height: 47px;
+	float: left;
+	margin-left: 46%;
+
+}
